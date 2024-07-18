@@ -62,6 +62,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    "allauth.account.middleware.AccountMiddleware",
 ]
 
 ROOT_URLCONF = 'mysite.urls'
@@ -93,8 +94,6 @@ CHANNEL_LAYERS = {
         },
     },
 }
-
-
 
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases

@@ -15,3 +15,5 @@ channels
 daphne
 
 channels_redis
+
+jwt
