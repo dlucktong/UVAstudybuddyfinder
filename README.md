@@ -5,6 +5,8 @@ The webstite page: ~~https://b-03-study-buddy-finder.herokuapp.com/~~
 
 ***Since the end of Heroku Free Tier (Nov 28, 2022), this site is no longer hosted. The main API used to get UVA classes (also hosted on Heroku) was removed at a similar time to this website meaning the site no longer works locally either. This repo is simply an archive to show off project code written in Django.***
 
+## What is Study Buddy Finder? 
+
 Having trouble finding good studdy buddies for your classes at UVA? Well look no further! This site has everything you need to find and coordinate with a your own studdy buddy circle!
 
 Using this site you will be able to:
