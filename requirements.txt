@@ -16,4 +16,4 @@ daphne
 
 channels_redis
 
-jwt
+pyjwt
