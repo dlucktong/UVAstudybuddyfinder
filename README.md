@@ -3,7 +3,8 @@ A Project to connect students with each other to study
 
 The webstite page: ~~https://b-03-study-buddy-finder.herokuapp.com/~~
 
-***!!Notice!! Since the end of Heroku Free Tier (Nov 28, 2022), this site is no longer hosted. The main API used to get UVA classes (also hosted on Heroku) was removed at a similar time to this website meaning the site no longer works locally either. This repo is simply an archive to show off project code written in Django.***
+### Note:
+***Since the end of Heroku Free Tier (Nov 28, 2022), this site is no longer hosted. The main API used to get UVA classes (also hosted on Heroku) was removed at a similar time to this website meaning the site no longer works locally either. This repo is simply an archive to show off project code written in Django.***
 
 ## What is Study Buddy Finder? 
 
